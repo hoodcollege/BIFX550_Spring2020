@@ -1,7 +1,8 @@
 # BIFX550_Spring2020
 
-BIFX-550 
-Course Syllabus (tentative)
+Welcome to BIFX-550
+
 Nucleic Acid Sequence Analysis/Protein Modeling
+
 Ravichandran Sarangan, Ph.D.
 
