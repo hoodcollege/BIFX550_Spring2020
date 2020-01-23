@@ -1,8 +1,10 @@
 ---
 title: "R-Introduction using RStudio"
 author: "S. Ravichandran, Ph.D"
-date: "Sep 06, 2018"
-output: html_document
+date: "Jan 21, 2020"
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -60,7 +62,7 @@ Note if R doesnt recognize a code, it displays a + sign and waits for you
 
 ```{r incomplete}
 # Uncomment the following line and run using the green arrow to the right
-# 2 * 
+# 2 *
 ```
 
 ```{r error}
@@ -97,7 +99,7 @@ Let us now talk about what are acceptable and not acceptable variable names.
 
 ```{r assignment1}
 var1 <- 2 
-var1 <- 100 # overwrite 
+var1 <- 100 #overwrite 
 ```
 
 ```{r morebasiccmds}
@@ -238,8 +240,14 @@ We can use RStudio to turn the following line into a function and call it  dist2
 We can create is just using a few click in RStudio.
 
 Let us do the following steps: 
-1) Select 245-246 lines 
-2) Select the same lines and do the following, Code --> "Extract Function" and give it a name, dist1
+1) Select 253-254 lines by highlighting 
+2) After selecting the lines, do the following, 
+  Code --> "Extract Function" and give it a name, my_dist
+3) Execute the code 
+4) test it with 
+   a <- c(1,1,2)
+   b <- c(2,2,3)
+   my_dist(a,b)
 
 ```{r extract-function}
     distsq <- sum( (b - a)^2 )
