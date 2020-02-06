@@ -11,7 +11,10 @@ b) We will pick human CBL gene and explore it using the following databases:
 * Ensembl
 * UniProt
 
-Please check out Hood College Blackboard Class-3(& class 4) folder. It contains a) solved book chapter exercises and b) my NCBI tutorial. Please note that the NCBI tutorial was prepared few years ago, NCBI options might have changed. 
+Please check out Hood College Blackboard Class-3(& class 4) folder. It contains 
+a) solved book chapter exercises and 
+b) my NCBI tutorial. 
+Please note that the NCBI tutorial was prepared few years ago, NCBI options might have changed. 
 
 
 
