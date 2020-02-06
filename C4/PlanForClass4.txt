@@ -1,0 +1,15 @@
+Last week question. Why some the characters in chr22.fa is shown in lower-case letters?
+Repeats from RepeatMasker and Tandem Repeats Finder (with period of 12 or less) are shown in lower case; non-repeating sequence is shown in upper case.
+
+Agenda for class 4:
+
+a) Lecture (slides are provided in Github) 
+b) We will pick human CBL gene and explore it using the following databases:
+* NCBI
+* Ensembl
+* UniProt
+
+Please check out Hood College Blackboard Class-3(& class 4) folder. It contains a) solved book chapter exercises and b) my NCBI tutorial. Please note that the NCBI tutorial was prepared few years ago, NCBI options might have changed. 
+
+
+
