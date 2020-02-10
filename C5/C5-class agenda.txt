@@ -1,0 +1,83 @@
+Agenda for Class-5
+
+We started exploring NCBI/Ensembl (check the hands-on for NCBI in my github page) 
+in the last class. In this class, we will focus on Ensembl and UniProt databases. 
+Whenever there is a link that takes us back to NCBI, we will cover that as well.
+
+Please note the notes are just summary headings. We will explore them 
+in detail in the class. 
+
+Our focus is going to be CBL (human) gene. 
+
+Ensembl is a project based at the European Bioinformatics Institute (EBI) that provides
+annotation for Chordate genomes (vertebrates and closely related invertebrates (ex 
+seq squirt)
+
+1) Explore Home page 
+   focus on Tools
+            Search bar
+            "All genomes drop-down" 
+            News & information 
+            How-tos 
+            "View in archive site"
+            "View full list of all Ensembl species"
+
+2)   Click on Human
+      Explore the site 
+
+3)    Previous assembly 
+
+
+4)  Visit   ensemblgenomes.org  
+     for taxon specific pages
+
+5)  Explore  bacteria specific page
+
+       Search for a species:  Clostridioides difficile 630
+       
+6) Go back to Ensembl 
+   type CBL
+
+7)  Explore the left-hand side menu
+
+Gene Page
+    Explre the graphics page
+    Configure menu for Tracks ; add and remove tracks (ex LOVD variants)
+    Show how to share the page with collaborators
+    Explore sequence in GENE tab to show overlapping exons    
+    Explore GO ontology
+    External references (back to NCBI; uniprot)
+    Gene expression 
+    Pathway 
+    Regulation (Start with CBL but explore BPTF gene which has more experimental info)
+      a) (look at the Promoter, Promoter flanks, CTCF binding sites, 
+       Enhancers, lilac TF binding sites) 
+      b) Zoom in and select the promoter 
+      	http://www.ensembl.org/Homo_sapiens/Regulation/Summary?db=core;fdb=funcgen;g=ENSG00000110395;r=11:119196132-119234046;rf=ENSR00000045742;t=ENST00000264033
+      c) Click on Source data to see what cells the gene is active on?
+      d) At the moment the page is not displaying any data as we haven’t chosen any
+cell types. Click on Configure Cell/Tissue to add more to the view.
+
+    Comparative Genomics
+    Gene trees and homologs (more on this later)
+    Orthologs and paralogs
+    
+
+Genes and transcripts
+    What transcript to choose
+    Go into the reliable transcript and explore the tabs on the left
+    AND all the tabs on the left
+
+
+   
+
+Tools 
+    Biomart: ESPN, MYH9, USH1C, CISD2, THRB, BRCA2
+    VEP 
+
+Variants sample list
+    
+9 128328461 128328461 A/- + var1
+9 128322349 128322349 C/A + var2
+9 128323079 128323079 C/G + var3
+9 128322917 128322917 G/A + var4
