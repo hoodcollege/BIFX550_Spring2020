@@ -61,13 +61,13 @@ cell types. Click on Configure Cell/Tissue to add more to the view.
     Comparative Genomics
     Gene trees and homologs (more on this later)
     Orthologs and paralogs
-    
+Gene CPG 
+     Region in detail --> Turn on CPG and also turn on "empty tracks" to show that CPG is not available    
 
 Genes and transcripts
     What transcript to choose
     Go into the reliable transcript and explore the tabs on the left
     AND all the tabs on the left
-
 
    
 
