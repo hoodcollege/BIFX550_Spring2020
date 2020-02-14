@@ -5,7 +5,8 @@ in the last class. In this class, we will focus on Ensembl and UniProt databases
 Whenever there is a link that takes us back to NCBI, we will cover that as well.
 
 Please note the notes are just summary headings. We will explore them 
-in detail in the class. 
+in detail in the class. We will spend roughly an hour on the database and then move over to the 
+sequence comparison class. Class notes are available in the Github and Blackboard. 
 
 Our focus is going to be CBL (human) gene. 
 
@@ -24,6 +25,8 @@ seq squirt)
 
 2)   Click on Human
       Explore the site 
+      Chromosome summary 
+      GC Repeats Variations Summary of genes
 
 3)    Previous assembly 
 
@@ -40,8 +43,18 @@ seq squirt)
 
 7)  Explore the left-hand side menu
 
+Here are some definitions (taken from Ensembl)
+
+Promoters (regions at the 5' end of genes where transcription factors and RNA polymerase bind to initiate transcription)
+Promoter flanking regions (transcription factor binding regions that flank the above)
+Enhancers (regions that bind transcription factors and interact with promoters to stimulate transcription of distant genes)
+CTCF binding sites (regions that bind CTCF, the insulator protein that demarcates open and closed chromatin)
+Transcription factor binding sites (sites which bind transcription factors, for which no other role can be determined as yet)
+Open chromatin regions (regions of spaced out histones, making them accessible to protein interactions)
+
+
 Gene Page
-    Explre the graphics page
+    Explore the graphics page
     Configure menu for Tracks ; add and remove tracks (ex LOVD variants)
     Show how to share the page with collaborators
     Explore sequence in GENE tab to show overlapping exons    
@@ -61,19 +74,23 @@ cell types. Click on Configure Cell/Tissue to add more to the view.
     Comparative Genomics
     Gene trees and homologs (more on this later)
     Orthologs and paralogs
-Gene CPG 
-     Region in detail --> Turn on CPG and also turn on "empty tracks" to show that CPG is not available    
+    
 
 Genes and transcripts
     What transcript to choose
     Go into the reliable transcript and explore the tabs on the left
     AND all the tabs on the left
 
+
    
 
-Tools 
-    Biomart: ESPN, MYH9, USH1C, CISD2, THRB, BRCA2
-    VEP 
+Ensembl Tools 
+    Biomart (Ensembl) example set of genes: 
+
+ESPN, MYH9, USH1C, CISD2, THRB, BRCA2
+
+
+Variants sample to use for VEP (Ensembl tool) 
 
 Variants sample list
     
@@ -81,3 +98,18 @@ Variants sample list
 9 128322349 128322349 C/A + var2
 9 128323079 128323079 C/G + var3
 9 128322917 128322917 G/A + var4
+
+We will return to NCBI to finish up the following databases.
+
+NCI Gene
+  Structures
+  ClinVar 
+  PubMed
+  protein (extract patterns)
+    Domain 
+  OMIM
+  ClinVar
+
+Finally, a quick stop at UniProt before we start discussing the sequence comparison
+
+  
