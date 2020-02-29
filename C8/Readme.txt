@@ -1,6 +1,7 @@
 Agenda for class C9
 
 * Discuss mid-term format
+* Check out the ongoing assignment, bifx550b (avilable from Blackboard). We will discuss the deadline in the class
 * Look ahead what is coming and plan for ongoing assignments deadlines
 * Multiple sequence alignments (lecture and hands-on)
 
