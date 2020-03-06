@@ -1,3 +1,6 @@
+Prepared for BIFX-550 
+Dr. S. Ravichandran 
+
 1) NCBI 
 
    Homologene; Accessible from any Gene Page
@@ -28,7 +31,20 @@
 
    UCSC 
 
-BLASTP 
+6) 3D modeling software that I used in the class for displaying 
+   secondary structural elements is Biovia Discovery studio:
+
+You can download the software from either one of the following links (Windows only):
+
+https://www.3dsbiovia.com/resource-center/downloads/freeware/  
+or 
+https://www.3dsbiovia.com/products/collaborative-science/biovia-discovery-studio/visualization-download.php 
+
+========================================
+Sequences that you can use try with the software
+
+
+NCBI BLASTP 
 
 >Query sequence
 MSSAAAAAAGAAGGGALFQPQSVSTANSSSSNNNNSSTPAALATHSPTSNSPVSGASSASSLLTAAFGNL
@@ -55,7 +71,7 @@ QLE
 
 #-----------------------------
 
-BLAST 2 Sequences 
+NCBI BLAST 2 Sequences 
 
 >NP_008872.1 SOX-10 [Homo sapiens]
 MAEEQDLSEVELSPVGSEEPRCLSPGSAPSLGPDGGGGGSGLRASPGPGELGKVKKEQQDGEADDDKFPV
@@ -120,7 +136,8 @@ TAPEVSEESHKPTEDSANVYEQDDLSEQMASLEGLMKQLNAITGSAF
 
 #-----------------------------
 
-PSI-BLAST 
+PSI-BLAST via NCBI BLASTP page 
+
 >NP_002119.1 high-mobility group box 1 [Homo sapiens]
 MGKGDPKKPRGKMSSYAFFVQTCREEHKKKHPDASVNFSEFSKKCSERWKTMSAKEKGKFEDMAKADKAR
 YEREMKTYIPPKGETKKKFKDPNAPKRPPSAFFLFCSEYRPKIKGEHPGLSIGDVAKKLGEMWNNTAADD
