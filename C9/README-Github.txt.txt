@@ -85,7 +85,7 @@ BLAST SEARCH STRATEGIES, "CLab-5-6b-Myexample-RBP4-PHI-BLAST-GXW[YF][EA][IVLM]"
   Check the class slides
 
 
-
+12) Follow the Hmmer software instructions  available from Blackboard (Class-9 folder, file called HMMER Software)
 
 
 
