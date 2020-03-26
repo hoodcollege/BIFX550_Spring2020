@@ -6,7 +6,6 @@ help you understand  why we need different BLAST flavors?
 Motivation and hands-on exercises
 
 1) Search human HBB using BLASTP. do you find human Myoglobin
-BLAST SAVED STRATEGIES: "hHBB to see hMYB hit" 
 
 2) Search human HBB using BLASTP on RefSeq DB, do you find human Myoglobin?
 
@@ -24,8 +23,6 @@ BLAST SAVED STRATEGIES: "hHBB to see hMYB hit"
 Here is a strategy we can use. 
 NCBI -> SRA -> "ERX1131812"[All Fields]  OR "ERX1131813"[All Fields] -> 
 Send to -> BLAST 
-
-BLAST SAVED STRATEGIES: NA12878-HAPBAP-SRA-BLAST-USING-HBB
 
 7)  PSI-Blast 
 
