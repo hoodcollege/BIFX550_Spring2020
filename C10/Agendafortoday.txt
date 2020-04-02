@@ -1,0 +1,13 @@
+a) Answer any questions about mid-term or anything else
+
+b) Keep in mind that understanding Molecular phylogeny need a strong mathametical 
+    background that is not required for BIFX550. So, here, I will provide a short summary of 
+    molecular phylogeny (ShortSummary-Phylogeny.pptx) with minimal math equations. The PPTX is
+    available from Github C10 folder
+
+c) Will do some tutorial.
+    Mega and other tools.
+    Note Mega is a good Phylogeny software but can frustrate Mega X beginners. Practice can help you get over 
+    this hurdle. 
+
+    
