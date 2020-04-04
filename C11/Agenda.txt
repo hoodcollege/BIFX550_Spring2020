@@ -1,0 +1,11 @@
+Hello Class:
+
+Class-11 materials are available for review.
+
+We will do lots of R exercises in the next class. If you want to follow-along, you need to install a list of R/R-bioconductor libraries (available from the RLibraryReadme.txt file under C11 Folder). R codes are also available from the C11 folder along with the PPT slides.
+
+We will do a hands-on exercise on Galaxy. Please remember your Galaxy password if you want to follow-along. 
+
+Stay safe.
+
+Ravi
