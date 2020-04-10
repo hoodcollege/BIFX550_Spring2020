@@ -53,7 +53,7 @@ rowRanges(vcf)
 info(vcf)
 
 # also look at geno slot
-geno(vcf)
+geno(vcf) # geno slot # GT: Genottype; DS: Genotype Dosage; GL: Gentotype likelihoods
 
 
 # we see 5 samples, 1 piece of meta information, 22 info fields and 3 geno fields
